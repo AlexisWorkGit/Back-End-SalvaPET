@@ -21,7 +21,7 @@
                 "shasum": ""
             },
             "require": {
-                "php": "^7.2 || 7.3"
+                "php": "^7.2 || ^8.0"
             },
             "type": "library",
             "extra": {
@@ -63,7 +63,7 @@
     "prefer-stable": false,
     "prefer-lowest": false,
     "platform": {
-        "php": "^7.2 || 7.3"
+        "php": "^7.2 || ^8.0"
     },
     "platform-dev": {
         "ext-tokenizer": "*"

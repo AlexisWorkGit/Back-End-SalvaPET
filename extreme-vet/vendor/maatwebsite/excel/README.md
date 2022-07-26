@@ -49,13 +49,13 @@ exports and imports.
 
 ## ✨ Features
 
--   **Easily export collections to Excel.** Supercharge your Laravel collections and export them directly to an Excel or CSV document. Exporting has never been so easy.
+- **Easily export collections to Excel.** Supercharge your Laravel collections and export them directly to an Excel or CSV document. Exporting has never been so easy.
 
--   **Supercharged exports.** Export queries with automatic chunking for better performance. You provide us the query, we handle the performance. Exporting even larger datasets? No worries, Laravel Excel has your back. You can queue your exports so all of this happens in the background.
+- **Supercharged exports.** Export queries with automatic chunking for better performance. You provide us the query, we handle the performance. Exporting even larger datasets? No worries, Laravel Excel has your back. You can queue your exports so all of this happens in the background.
 
--   **Supercharged imports.** Import workbooks and worksheets to Eloquent models with chunk reading and batch inserts! Have large files? You can queue every chunk of a file! Your entire import will happen in the background.
+- **Supercharged imports.** Import workbooks and worksheets to Eloquent models with chunk reading and batch inserts! Have large files? You can queue every chunk of a file! Your entire import will happen in the background.
 
--   **Export Blade views.** Want to have a custom layout in your spreadsheet? Use a HTML table in a Blade view and export that to Excel.
+- **Export Blade views.** Want to have a custom layout in your spreadsheet? Use a HTML table in a Blade view and export that to Excel.
 
 ![banner](https://user-images.githubusercontent.com/7728097/57463977-2263fc80-727c-11e9-833d-669d816fb7fb.jpg)
 <br>
@@ -89,12 +89,13 @@ The Netherlands
 
 More about the license can be found at: [https://docs.laravel-excel.com/3.1/getting-started/license.html](https://docs.laravel-excel.com/3.1/getting-started/license.html)
 
+
 ## :wrench: Supported Versions
 
 Versions will be supported for a limited amount of time.
 
-| Version | Laravel Version       | Php Version | Support                      |
-| ------- | --------------------- | ----------- | ---------------------------- |
-| 2.1     | <=5.6                 | <=7.0       | Unsupported since 15-5-2018  |
-| 3.0     | ^5.5                  | ^7.0        | Unsupported since 31-12-2018 |
-| 3.1     | ^5.8\|^6.0\|^7.0\|7.3 | ^7.2\|7.3   | New features                 |
+| Version | Laravel Version | Php Version | Support |
+|---- |----|----|----|
+| 2.1 | <=5.6 | <=7.0 | Unsupported since 15-5-2018 |
+| 3.0 | ^5.5 |  ^7.0 | Unsupported since 31-12-2018 |
+| 3.1 | ^5.8\|^6.0\|^7.0\|^8.0 |  ^7.2\|^8.0 | New features |

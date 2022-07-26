@@ -33,7 +33,7 @@ class Bootstrap extends Preset
             'jquery' => '^3.2',
             'popper.js' => '^1.12',
             'sass' => '^1.15.2',
-            'sass-loader' => '7.3.0',
+            'sass-loader' => '^8.0.0',
         ] + $packages;
     }
 
