@@ -1,0 +1,494 @@
+{
+  "Login owner": "ورود به سیستم مالک",
+  "Owner Code": "کد مالک",
+  "Remember Me": "مرا به خاطر بسپار",
+  "Forgot Code ?": "کد را فراموش کرده اید؟",
+  "Login": "وارد شدن",
+  "New Owner ?": "مالک جدید ؟",
+  "Follow Us": "ما را دنبال کنید",
+  "New Owner": "مالک جدید",
+  "Name": "نام",
+  "Gender": "جنسیت",
+  "Male": "نر",
+  "Female": "زن",
+  "Phone": "تلفن",
+  "Email": "پست الکترونیک",
+  "Date Of Birth": "تاریخ تولد",
+  "Address": "نشانی",
+  "Signup": "ثبت نام",
+  "Send Owner Code": "ارسال کد مالک",
+  "Send": "ارسال",
+  "Email Or Phone": "ایمیل یا تلفن",
+  "Login Admin": "ورود مدیر",
+  "Password": "کلمه عبور",
+  "Forgot Password?": "رمز عبور را فراموش کرده اید؟",
+  "Send Ressetting Mail": "ارسال مجدد نامه",
+  "Resetting Admin Password": "بازنشانی رمز مدیریت",
+  "New Password": "رمز عبور جدید",
+  "New Password Confirmation": "تایید رمز عبور جدید",
+  "Reset Password": "بازنشانی رمز عبور",
+  "Dashboard": "داشبورد",
+  "Total Reports": "مجموع گزارشات",
+  "Pending Reports": "گزارشات در انتظار",
+  "Completed Reports": "گزارشات تکمیل شده",
+  "Code": "کد",
+  "Profile": "مشخصات",
+  "Reports": "گزارش ها",
+  "Tests Library": "کتابخانه آزمایشات",
+  "Home Visit": "بازدید از منزل",
+  "Home Visits": "بازدیدهای خانگی",
+  "Our Branches": "شعب ما",
+  "Email Address": "آدرس ایمیل",
+  "Select Gender": "جنسیت را انتخاب کنید",
+  "Date": "تاریخ",
+  "Total": "جمع",
+  "Paid": "پرداخت شده",
+  "Due": "ناشی از",
+  "Done": "انجام شده",
+  "Action": "عمل",
+  "Reports list": "لیست گزارشات",
+  "Shortcut": "میانبر",
+  "Sample Type": "نوع نمونه",
+  "precautions": "موارد احتیاط",
+  "Tests": "آزمایشات",
+  "Cultures": "فرهنگ ها",
+  "Request a home visit": "درخواست ویزیت خانگی کنید",
+  "Location On Map": "موقعیت مکانی روی نقشه",
+  "Attachment": "پیوست",
+  "Attachment Image": "تصویر پیوست",
+  "Browse": "مرور کردن",
+  "optional": "اختیاری",
+  "View On Map": "مشاهده روی نقشه",
+  "Are you sure to delete branch ?": "آیا مطمئن هستید که شعبه را حذف می کنید؟",
+  "Cancel": "لغو کنید",
+  "Delete": "حذف",
+  "Copy": "کپی 🀄",
+  "Excel": "برتری داشتن",
+  "CVS": "CVS",
+  "PDF": "PDF",
+  "Processing...": "در حال پردازش...",
+  "No data available in table": "داده ای در جدول وجود ندارد",
+  "Showing": "در حال نمایش",
+  "to": "به",
+  "of": "از",
+  "from": "از جانب",
+  "filtered": "فیلتر شده",
+  "Show": "نمایش",
+  "Search": "جستجو کردن",
+  "No matching records found": "هیچ سابقه مطابقی یافت نشد",
+  "First": "اولین",
+  "Last": "آخر",
+  "Next": "بعد",
+  "Previous": "قبلی",
+  "records": "سوابق",
+  "Are you sure to delete component ?": "آیا مطمئن هستید که جزء را حذف می کنید؟",
+  "Please select at least one test component": "لطفاً حداقل یک جزء آزمون را انتخاب کنید",
+  "No new messages": "پیام جدیدی وجود ندارد",
+  "No new visits": "بدون بازدید جدید",
+  "Are you sure to delete antibiotic ?": "آیا مطمئن هستید که آنتی بیوتیک را حذف کرده اید؟",
+  "Are you sure to delete backup ?": "آیا مطمئن هستید که پشتیبان را حذف می کنید؟",
+  "Are you sure to delete contract ?": "آیا مطمئن هستید که قرارداد را حذف می کنید؟",
+  "Are you sure to delete culture option ?": "آیا مطمئن هستید که گزینه فرهنگ را حذف می کنید؟",
+  "Are you sure to delete option ?": "آیا مطمئن هستید که گزینه را حذف می کنید؟",
+  "Are you sure to delete culture ?": "آیا مطمئناً فرهنگ را حذف می کنید؟",
+  "No users online": "هیچ کاربر آنلاین نیست",
+  "Are you sure to delete doctor ?": "آیا مطمئن هستید که دکتر را حذف می کنید؟",
+  "Select expense category": "انتخاب دسته هزینه",
+  "Category added successfully": "دسته با موفقیت اضافه شد",
+  "Success": "موفقیت",
+  "Something went wrong": "مشکلی پیش آمد",
+  "Are you sure to delete expense ?": "آیا مطمئن هستید که هزینه را حذف می کنید؟",
+  "Select contract": "قرارداد را انتخاب کنید",
+  "Owner Name": "نام مالک",
+  "Owner saved successfully": "مالک با موفقیت ذخیره شد",
+  "Are you sure to delete group ?": "آیا مطمئن هستید که گروه را حذف می کنید؟",
+  "Please select at least one test": "لطفاً حداقل یک آزمون را انتخاب کنید",
+  "Are you sure to delete group test ?": "آیا مطمئن هستید که تست گروهی را حذف می کنید؟",
+  "Are you sure to delete Owner ?": "آیا مطمئن هستید که مالک را حذف می کنید؟",
+  "Password confirmation does not match password": "تأیید رمز عبور با رمز عبور مطابقت ندارد",
+  "Select antibiotic": "آنتی بیوتیک را انتخاب کنید",
+  "Select sensitivity": "حساسیت را انتخاب کنید",
+  "Please select at least one antibiotic": "لطفاً حداقل یک آنتی بیوتیک انتخاب کنید",
+  "Select Sensitivity": "حساسیت را انتخاب کنید",
+  "High": "بالا",
+  "Moderate": "در حد متوسط",
+  "Resident": "مقیم",
+  "Are you sure to delete role ?": "آیا مطمئن هستید که نقش را حذف می کنید؟",
+  "Are you sure to delete test ?": "آیا مطمئن هستید که تست را حذف می کنید؟",
+  "Are you sure to delete user ?": "آیا مطمئن هستید که کاربر را حذف می کنید؟",
+  "Are you sure to delete visit ?": "آیا مطمئن هستید که بازدید را حذف می کنید؟",
+  "Failed": "ناموفق",
+  "Edit Profile": "ویرایش نمایه",
+  "Filters": "فیلترها",
+  "Status": "وضعیت",
+  "All": "همه",
+  "Pending": "در انتظار",
+  "Current Owner": "صاحب فعلی",
+  "Save": "صرفه جویی",
+  "New here ?": "تازه وارد به اینجا ؟",
+  "Create Account": "ایجاد حساب کاربری",
+  "Submit": "ارسال",
+  "Wrong email or password": "ایمیل یا رمز عبور اشتباه است",
+  "Please check your email to complete resetting your password": "لطفاً ایمیل خود را برای بازنشانی کامل گذرواژه خود بررسی کنید",
+  "Email not found": "ایمیل یافت نشد",
+  "Password reset successfully": "گذرواژه با موفقیت بازنشانی شد",
+  "Owner registered successfully": "مالک با موفقیت ثبت نام کرد",
+  "Login success": "موفقیت در ورود",
+  "Wrong Owner code": "کد مالک اشتباه است",
+  "we sent you the Owner code,Please check your mail or phone for the Owner code message": "ما کد مالک را برای شما ارسال کردیم ، لطفاً ایمیل یا تلفن خود را برای پیام کد مالک بررسی کنید",
+  "Wrong Owner email or phone": "ایمیل یا تلفن مالک اشتباه است",
+  "Home": "صفحه اصلی",
+  "Filter": "فیلتر کردن",
+  "Activity log cleared successfully": "گزارش فعالیت با موفقیت پاک شد",
+  "Antibiotic saved successfully": "آنتی بیوتیک با موفقیت ذخیره شد",
+  "Antibiotic updated successfully": "آنتی بیوتیک با موفقیت به روز شد",
+  "Antibiotic deleted successfully": "آنتی بیوتیک با موفقیت حذف شد",
+  "Database backup created successfully": "پشتیبان گیری از پایگاه داده با موفقیت ایجاد شد",
+  "Backup deleted successfully": "پشتیبان گیری با موفقیت حذف شد",
+  "Branch created successfully": "شعبه با موفقیت ایجاد شد",
+  "Branch updated successfully": "شعبه با موفقیت به روز شد",
+  "Branch deleted successfully": "شعبه با موفقیت حذف شد",
+  "Test created successfully": "تست با موفقیت ایجاد شد",
+  "Test updated successfully": "تست با موفقیت به روز شد",
+  "Test deleted successfully": "تست با موفقیت حذف شد",
+  "Culture created successfully": "فرهنگ با موفقیت ایجاد شد",
+  "Culture updated successfully": "فرهنگ با موفقیت به روز شد",
+  "Culture deleted successfully": "فرهنگ با موفقیت حذف شد",
+  "Contract created successfully": "قرارداد با موفقیت ایجاد شد",
+  "Contract updated successfully": "قرارداد با موفقیت به روز شد",
+  "Contract deleted successfully": "قرارداد با موفقیت حذف شد",
+  "Culture option created successfully": "گزینه فرهنگ سازی با موفقیت ایجاد شد",
+  "Culture option updated successfully": "گزینه فرهنگ با موفقیت به روز شد",
+  "Culture option deleted successfully": "گزینه فرهنگ با موفقیت حذف شد",
+  "Doctor created successfully": "دکتر با موفقیت ایجاد شد",
+  "Doctor updated successfully": "دکتر با موفقیت به روز شد",
+  "Doctor deleted successfully": "دکتر با موفقیت حذف شد",
+  "Expense category created successfully": "دسته هزینه با موفقیت ایجاد شد",
+  "Expense category updated successfully": "دسته هزینه با موفقیت به روز شد",
+  "Expense category deleted successfully": "دسته هزینه با موفقیت حذف شد",
+  "Expense created successfully": "هزینه با موفقیت ایجاد شد",
+  "Expense updated successfully": "هزینه با موفقیت به روز شد",
+  "Expense deleted successfully": "هزینه با موفقیت حذف شد",
+  "Group created successfully": "گروه با موفقیت ایجاد شد",
+  "Group updated successfully": "گروه با موفقیت به روز شد",
+  "Group deleted successfully": "گروه با موفقیت حذف شد",
+  "User created successfully": "کاربر با موفقیت ایجاد شد",
+  "User updated successfully": "کاربر با موفقیت به روز شد",
+  "User deleted successfully": "کاربر با موفقیت حذف شد",
+  "Role created successfully": "نقش با موفقیت ایجاد شد",
+  "Role updated successfully": "نقش با موفقیت به روز شد",
+  "Role deleted successfully": "نقش با موفقیت حذف شد",
+  "Owner created successfully": "مالک با موفقیت ایجاد شد",
+  "Owner updated successfully": "مالک با موفقیت به روز شد",
+  "Owner deleted successfully": "مالک با موفقیت حذف شد",
+  "Visit created successfully": "بازدید با موفقیت ایجاد شد",
+  "Visit updated successfully": "بازدید با موفقیت به روز شد",
+  "Visit deleted successfully": "بازدید با موفقیت حذف شد",
+  "Tests prices updated successfully": "قیمت آزمایشات با موفقیت به روز شد",
+  "Cultures prices updated successfully": "قیمت فرهنگ ها با موفقیت به روز شد",
+  "Profile updated successfully": "نمایه با موفقیت به روز شد",
+  "Test result saved successfully": "نتیجه آزمایش با موفقیت ذخیره شد",
+  "Culture result saved successfully": "نتیجه کشت با موفقیت ذخیره شد",
+  "Your home visit request sent successfully , please be Owner till our representative contact you": "درخواست بازدید از خانه شما با موفقیت ارسال شد ، لطفاً مالک باشید تا نماینده ما با شما تماس بگیرد",
+  "Password Confirmation": "تایید رمز عبور",
+  "Price": "قیمت",
+  "Precautions": "موارد احتیاط",
+  "Test Components": "اجزای تست",
+  "Component": "مولفه",
+  "Title": "عنوان",
+  "Unit": "واحد",
+  "Reference Range": "محدوده مرجع",
+  "Separated": "جدا از هم",
+  "status": "وضعیت",
+  "Text": "متن",
+  "Select": "انتخاب کنید",
+  "Option": "گزینه",
+  "Create Test": "ایجاد تست",
+  "Create": "ایجاد کردن",
+  "Edit": "ویرایش کنید",
+  "Edit Test": "ویرایش تست",
+  "Tests Table": "جدول آزمایشات",
+  "Category": "دسته بندی",
+  "Expense category name": "نام دسته هزینه",
+  "Create Expense Category": "ایجاد طبقه بندی هزینه",
+  "Expense Categories": "دسته بندی هزینه",
+  "Edit Expense Category": "ویرایش دسته هزینه",
+  "Not Listed ?": "فهرست نشده است؟",
+  "Amount": "میزان",
+  "Notes": "یادداشت",
+  "New Expense Category": "طبقه بندی هزینه جدید",
+  "Category name": "نام دسته",
+  "Close": "نزدیک",
+  "Create Expense": "ایجاد هزینه",
+  "Expenses": "هزینه ها",
+  "Edit Expense": "ویرایش هزینه",
+  "Expenses Table": "جدول هزینه ها",
+  "Date range": "محدوده زمانی",
+  "Doctor": "دکتر",
+  "Test": "تست",
+  "Culture": "فرهنگ",
+  "Show Details": "نمایش جزئیات",
+  "Show Group tests": "نمایش تست های گروهی",
+  "Show Expenses": "نمایش هزینه ها",
+  "Show Profit": "نمایش سود",
+  "Accounting": "حسابداری",
+  "Accounting Report": "گزارش حسابداری",
+  "Group Tests": "آزمونهای گروهی",
+  "Profit": "سود",
+  "Activity Logs": "گزارش فعالیتها",
+  "Activity Logs Table": "جدول گزارش فعالیتها",
+  "Clear": "پاک کردن",
+  "User": "کاربر",
+  "Time": "زمان",
+  "Commercial Name": "نام تجاری",
+  "Create Antibiotic": "ایجاد آنتی بیوتیک",
+  "Antibiotics": "آنتی بیوتیک ها",
+  "Create antibiotic": "ایجاد آنتی بیوتیک",
+  "Edit Antibiotic": "ویرایش آنتی بیوتیک",
+  "Antibiotics Table": "جدول آنتی بیوتیک ها",
+  "Backups": "پشتیبان گیری",
+  "Database Backups": "پشتیبان گیری از پایگاه داده",
+  "Backups Table": "جدول پشتیبان گیری",
+  "Create Database Backup": "ایجاد پشتیبان از پایگاه داده",
+  "Backup": "پشتیبان گیری",
+  "Branch name": "نام شعبه",
+  "Phone number": "شماره تلفن",
+  "Location on map": "موقعیت مکانی روی نقشه",
+  "Create Branch": "ایجاد شعبه",
+  "Branches": "شاخه ها",
+  "Edit Branch": "ویرایش شعبه",
+  "Branches Table": "جدول شاخه ها",
+  "Chat": "چت کنید",
+  "Online": "برخط",
+  "Offline": "آفلاین",
+  "Discount": "تخفیف",
+  "Description": "شرح",
+  "Create Contract": "ایجاد قرارداد",
+  "Contracts": "قراردادها",
+  "Edit Contract": "ویرایش قرارداد",
+  "Contracts Table": "جدول قراردادها",
+  "Options": "گزینه ها",
+  "Create culture option": "ایجاد گزینه فرهنگ",
+  "Culture options": "گزینه های فرهنگی",
+  "Edit culture option": "گزینه ویرایش فرهنگ",
+  "Create Culture": "فرهنگ سازی کنید",
+  "Edit Culture": "ویرایش فرهنگ",
+  "Cultures Table": "جدول فرهنگ ها",
+  "Doctor Name": "نام پزشک",
+  "Create Doctor": "دکتر بساز",
+  "Doctors": "پزشکان",
+  "Doctors Table": "میز پزشکان",
+  "Create doctor": "دکتر بساز",
+  "Edit Doctor": "ویرایش دکتر",
+  "Show Receipt": "نمایش رسید",
+  "Select branch": "شعبه را انتخاب کنید",
+  "Select tests branch": "شاخه آزمایش را انتخاب کنید",
+  "Owner Info": "اطلاعات مالک",
+  "Date of birth": "تاریخ تولد",
+  "Test Name": "نام آزمون",
+  "Culture Name": "نام فرهنگ",
+  "Receipt": "اعلام وصول",
+  "Subtotal": "فرعی",
+  "Contract": "قرارداد",
+  "Create Group": "ایجاد گروه",
+  "Groups": "گروه ها",
+  "Edit Group": "ویرایش گروه",
+  "Age": "سن",
+  "Due Date": "سررسید",
+  "Print": "چاپ",
+  "Patients": "بیماران",
+  "Create Owner": "ایجاد مالک",
+  "Edit Owner": "ویرایش مالک",
+  "Patients Table": "جدول بیماران",
+  "Price List": "لیست قیمت",
+  "Cultures Price List": "لیست قیمت فرهنگ ها",
+  "Tests Price List": "لیست قیمت آزمایشات",
+  "Edit Report": "ویرایش گزارش",
+  "Send Report": "ارسال گزارش",
+  "Print Report": "گزارش را پرینت کنید",
+  "No data available": "اطلاعاتی موجود نیست",
+  "Reports Table": "جدول گزارشات",
+  "Select tests and cultures to be printed in the report": "آزمایشها و فرهنگهایی را انتخاب کنید که در گزارش چاپ شوند",
+  "Deselect all": "همه را لغو انتخاب کنید",
+  "Select all": "انتخاب همه",
+  "Role Name": "نام نقش",
+  "Permissions": "مجوزها",
+  "Create Role": "ایجاد نقش",
+  "Roles": "نقش ها",
+  "Edit Role": "ویرایش نقش",
+  "Roles Table": "جدول نقش ها",
+  "Create User": "User ایجاد کنید",
+  "Edit User": "ویرایش کاربر",
+  "Users": "کاربران",
+  "Users Table": "جدول کاربران",
+  "Create group tests": "ایجاد تست های گروهی",
+  "Select Owner": "Owner را انتخاب کنید",
+  "Visit Date": "تاریخ بازدید",
+  "Choose file": "انتخاب فایل",
+  "Create home visit": "ایجاد بازدید از منزل",
+  "Home visits": "بازدید از منزل",
+  "Edit home visit": "ویرایش بازدید از منزل",
+  "Home visits table": "میز بازدید از منزل",
+  "Completed": "تکمیل شد",
+  "Viewed": "مشاهده شد",
+  "Show home visit": "نمایش بازدید از منزل",
+  "Home visit details": "جزئیات بازدید از منزل",
+  "More info": "اطلاعات بیشتر",
+  "Today income amount": "میزان درآمد امروز",
+  "Today expense amount": "مبلغ هزینه امروز",
+  "Today profit amount": "میزان سود امروز",
+  "Pending Tests": "آزمون های در انتظار",
+  "Completed Tests": "تست های کامل شده",
+  "Total Cultures": "کل فرهنگ ها",
+  "Pending Culltures": "Culltures در انتظار",
+  "Completed Cultures": "فرهنگ های تکمیل شده",
+  "Online users": "کاربران آنلاین",
+  "Today scheduled home visits": "امروز ویزیت های خانگی برنامه ریزی شده است",
+  "New home visits": "بازدیدهای جدید از منزل",
+  "New messages": "پیام جدید",
+  "Settings": "تنظیمات",
+  "General": "عمومی",
+  "Emails": "ایمیل ها",
+  "SMS": "پیامک",
+  "Whatsapp": "واتس اپ",
+  "General Settings": "تنظیمات عمومی",
+  "Footer": "پاورقی",
+  "Choose Report Logo": "آرم گزارش را انتخاب کنید",
+  "Choose Logo": "لوگو را انتخاب کنید",
+  "Email Settings": "تنظیمات ایمیل",
+  "Host": "میزبان",
+  "Port": "بندر",
+  "Username": "نام کاربری",
+  "Encryption": "رمزگذاری",
+  "From Address": "از آدرس",
+  "From Name": "از نام",
+  "Header background color": "رنگ زمینه هدر",
+  "Footer background color": "رنگ پس زمینه پاورقی",
+  "Resetting Password": "بازنشانی رمز عبور",
+  "Tests Notification": "اعلان تست ها",
+  "Do not change variables": "متغیرها را تغییر ندهید",
+  "Active": "فعال",
+  "Deactive": "غیرفعال",
+  "subject": "موضوع",
+  "Body": "بدن",
+  "Reports Settings": "تنظیمات گزارشات",
+  "Show Header": "نمایش سربرگ",
+  "Show Footer": "نمایش پاورقی",
+  "Margin top": "حاشیه بالا",
+  "Margin left": "حاشیه رفت",
+  "Margin right": "حاشیه درست",
+  "Margin bottom": "پایین حاشیه",
+  "SMS Settings": "تنظیمات پیامک",
+  "Message": "پیام",
+  "Whatsapp Settings": "تنظیمات واتساپ",
+  "Receipt link": "پیوند دریافت",
+  "Report link": "پیوند گزارش",
+  "Social": "اجتماعی",
+  "Logos": "آرم ها",
+  "Accounting Report Summary": "خلاصه گزارش حسابداری",
+  "From Date": "از تاریخ",
+  "To Date": "به روز",
+  "Load More": "بارگذاری بیشتر",
+  "Click User To Chat": "بر روی User To Chat کلیک کنید",
+  "Roles And Users": "نقشها و کاربران",
+  "Translations": "ترجمه ها",
+  "Translation": "ترجمه",
+  "Edit Translation": "ویرایش ترجمه",
+  "lang status changed": "وضعیت زبان تغییر کرد",
+  "Translation updated successfully": "ترجمه با موفقیت به روز شد",
+  "Culture options Table": "جدول گزینه های فرهنگ",
+  "Option name": "نام گزینه",
+  "Contract title": "عنوان قرارداد",
+  "Contract discount": "تخفیف قرارداد",
+  "Group Tests Table": "جدول آزمونهای گروهی",
+  "Expense Categories Table": "جدول دسته بندی هزینه",
+  "Language status updated successfully": "وضعیت زبان با موفقیت به روز شد",
+  "Language": "زبان",
+  "Key Word": "کلمه کلیدی",
+  "Print barcode": "بارکد چاپ کنید",
+  "Number of samples": "تعداد نمونه ها",
+  "Doctor report": "گزارش پزشک",
+  "Payments": "مبلغ پرداختی",
+  "Doctor accounting report": "گزارش حسابداری پزشک",
+  "Show Payments": "نمایش پرداخت ها",
+  "Download template": "دانلود قالب",
+  "Export": "صادرات",
+  "Export / Import": "صادرات و واردات",
+  "Import": "وارد كردن",
+  "Enter results": "نتایج را وارد کنید",
+  "Today": "امروز",
+  "Yesterday": "دیروز",
+  "Last 7 Days": "7 روز گذشته",
+  "Last 30 Days": "30 روز گذشته",
+  "This Month": "این ماه",
+  "Last Month": "ماه گذشته",
+  "This Year": "امسال",
+  "Last Year": "سال گذشته",
+  "Signature": "امضا",
+  "Choose your signature": "امضای خود را انتخاب کنید",
+  "Sign Report": "گزارش امضا",
+  "Font type": "نوع قلم",
+  "Font size": "اندازه فونت",
+  "Select font type": "نوع فونت را انتخاب کنید",
+  "Signed": "امضاء شده",
+  "Barcode": "بارکد",
+  "Result": "نتیجه",
+  "Normal": "طبیعی",
+  "Select status": "وضعیت را انتخاب کنید",
+  "Commission": "کمیسیون",
+  "Import tests": "وارد کردن آزمایشات",
+  "Import cultures": "وارد کردن فرهنگ ها",
+  "From": "از جانب",
+  "To": "به",
+  "Content margin bottom": "پایین حاشیه محتوا",
+  "Content margin top": "حاشیه محتوا بالا",
+  "Show signature": "نشان دادن امضا",
+  "Api Keys Settings": "تنظیمات کلیدهای Api",
+  "Mail sent successfully": "نامه با موفقیت ارسال شد",
+  "Send Receipt": "ارسال رسید",
+  "Branch info": "اطلاعات شعبه",
+  "Owner title": "عنوان مالک",
+  "Owner data": "داده های مالک",
+  "Test title": "عنوان آزمون",
+  "Test name": "نام آزمایش",
+  "Test head": "سر آزمایش",
+  "Test unit": "واحد تست",
+  "Test reference range": "محدوده مرجع تست",
+  "Test status": "وضعیت تست",
+  "Test comment": "آزمایش کنید چگونه",
+  "Report signature": "امضای گزارش",
+  "Antibiotic name": "نام آنتی بیوتیک",
+  "Antibiotic sensitivity": "حساسیت آنتی بیوتیکی",
+  "Antibiotic commercial name": "نام تجاری آنتی بیوتیک",
+  "Report": "گزارش",
+  "Print receipt": "چاپ رسید",
+  "male": "نر",
+  "female": "زن",
+  "Owner info": "اطلاعات مالک",
+  "Years": "سال ها",
+  "Months": "ماه ها",
+  "Days": "روزها",
+  "Low": "کم",
+  "Invoices": "فاکتورها",
+  "Create invoice": "فاکتور ایجاد کنید",
+  "Edit invoice": "فاکتور را ویرایش کنید",
+  "Invoice": "صورتحساب",
+  "Comment": "اظهار نظر",
+  "Animals": "حیوانات",
+  "Create animal": "حیوان ایجاد کنید",
+  "Edit animal": "ویرایش حیوانات",
+  "Animals Table": "میز حیوانات",
+  "Animal created successfully": "حیوان با موفقیت ایجاد شد",
+  "Animal updated successfully": "حیوان با موفقیت به روز شد",
+  "Animal deleted successfully": "حیوان با موفقیت حذف شد",
+  "Animal owner": "صاحب حیوان",
+  "Animal owners": "صاحبان حیوانات",
+  "Animal owners table": "میز صاحبان حیوانات",
+  "Create animal owner": "صاحب حیوان ایجاد کنید",
+  "Edit animal owner": "صاحب حیوان را ویرایش کنید",
+  "Animal owner created successfully": "صاحب حیوان با موفقیت ایجاد شد",
+  "Animal owner updated successfully": "صاحب حیوان با موفقیت به روز شد",
+  "Animal owner deleted successfully": "صاحب حیوان با موفقیت حذف شد",
+  "Invoices Table": "جدول فاکتورها",
+  "Animals owners": "صاحبان حیوانات"
+}

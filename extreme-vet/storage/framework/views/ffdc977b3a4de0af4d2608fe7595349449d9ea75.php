@@ -1,0 +1,1 @@
+<?php echo e($activity->created_at->diffforhumans()); ?><?php /**PATH C:\xampp\htdocs\extreme-vet\resources\views/admin/activity_logs/_created_at.blade.php ENDPATH**/ ?>
