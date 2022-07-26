@@ -31,10 +31,10 @@
         }
     ],
     "require": {
-        "php": "^7.3 || ^8.0",
-        "illuminate/config": "^6.0 || ^7.0 || ^8.0",
-        "illuminate/database": "^6.0 || ^7.0 || ^8.0",
-        "illuminate/support": "^6.0 || ^7.0 || ^8.0"
+        "php": "^7.3 || 7.3",
+        "illuminate/config": "^6.0 || ^7.0 || 7.3",
+        "illuminate/database": "^6.0 || ^7.0 || 7.3",
+        "illuminate/support": "^6.0 || ^7.0 || 7.3"
     },
     "require-dev": {
         "ext-json": "*",
