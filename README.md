@@ -1,25 +1,32 @@
-# Pandoc document template
+# SalvaPET - Laravel 7
 
-## Description
+## Descripción
+Este repositorio muestra como usar el proyecto SalvaPET (PETICA como nombre patentado), SalvaPET es un software multinstancia de propósito general.
+## Uso
 
-This repository contains a simple template for building
-[Pandoc](http://pandoc.org/) documents; Pandoc is a suite of tools to compile
-markdown files into readable files (PDF, EPUB, HTML...).
+### Instalación
+En orden para el uso del sistema se necesitan las siguientes dependencias:
+  - Laravel 7.0.0
+  - Php 7.3.0
+  - Composer Laravel 7.0.0
 
-## Usage
 
-### Installing
+### Clonar el repositorio
+```
+git clone https://github.com/AlexisWorkGit/Back-End-SalvaPET.git //para HTTPS
+git clone git@github.com:AlexisWorkGit/Back-End-SalvaPET.git //para SSH
 
-In order to use this makefile you will need to make sure that the following
-dependencies are installed on your system:
-  - GNU make
-  - Pandoc
-  - LuaLaTeX
-  - DejaVu Sans fonts
-
-### Folder structure
-
-Here's a folder structure for a Pandoc document:
+```
+### Precaución
+Para poder actualizar las dependencias del proyecto se utiliza `composer install -W` pero esto solo le llevara a errores ya que existen dependencias que solo eran soportadas por `laravel/framework:7.0.0` por lo que actualmente no tienen soporte para las nuevas versiones de laravel
+### Instalar nuevas dependencias
+Para poder instalar nuevas dependencias del proyecto se utiliza `composer require "NombredePaquete"`, si presenta errores eliminar el siguiente archivo y directorio: 
+```
+Proyecto/     # Root.
+|- Proyecto/extreme-vet/vendor        # Carpeta que se crea al instalar las dependencias
+|- Proyecto/extreme-vet/composer.lock          # Archivo que bloquea en una versión especifíca las dependencias.
+```
+ `laravel/framework:7.0.0` por lo que actualmente no tienen soporte para las nuevas versiones de laravel
 
 ```
 my-document/     # Root directory.
