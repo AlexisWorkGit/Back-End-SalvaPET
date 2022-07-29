@@ -154,8 +154,8 @@ return [
         Illuminate\Notifications\NotificationServiceProvider::class,
         Illuminate\Pagination\PaginationServiceProvider::class,
         Illuminate\Pipeline\PipelineServiceProvider::class,
-        Illuminate\Queue\QueueServiceProvider::class,
-        Illuminate\Redis\RedisServiceProvider::class,
+            //Illuminate\Queue\QueueServiceProvider::class,
+            Gecche\Multidomain\Queue\QueueServiceProvider::class,        Illuminate\Redis\RedisServiceProvider::class,
         Illuminate\Auth\Passwords\PasswordResetServiceProvider::class,
         Illuminate\Session\SessionServiceProvider::class,
         Illuminate\Translation\TranslationServiceProvider::class,
@@ -180,7 +180,7 @@ return [
         Spatie\Activitylog\ActivitylogServiceProvider::class,
         App\Providers\MailServiceProvider::class,
         niklasravnsborg\LaravelPdf\PdfServiceProvider::class,
-        LaravelQRCode\Providers\QRCodeServiceProvider::class,     
+        LaravelQRCode\Providers\QRCodeServiceProvider::class,
         Maatwebsite\Excel\ExcelServiceProvider::class,
 
 
@@ -236,9 +236,9 @@ return [
         'Validator' => Illuminate\Support\Facades\Validator::class,
         'View' => Illuminate\Support\Facades\View::class,
         'PDF' => niklasravnsborg\LaravelPdf\Facades\Pdf::class,
-        'QRCode' => LaravelQRCode\Facades\QRCode::class,   
+        'QRCode' => LaravelQRCode\Facades\QRCode::class,
         'Excel' => Maatwebsite\Excel\Facades\Excel::class,
-  
+
 
     ],
 

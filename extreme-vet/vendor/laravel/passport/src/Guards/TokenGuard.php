@@ -7,7 +7,6 @@ use Firebase\JWT\JWT;
 use Illuminate\Container\Container;
 use Illuminate\Contracts\Debug\ExceptionHandler;
 use Illuminate\Contracts\Encryption\Encrypter;
-use Illuminate\Cookie\CookieValuePrefix;
 use Illuminate\Cookie\Middleware\EncryptCookies;
 use Illuminate\Http\Request;
 use Laminas\Diactoros\ResponseFactory;
@@ -271,7 +270,7 @@ class TokenGuard
     protected function decodeJwtTokenCookie($request)
     {
         return (array) JWT::decode(
-            CookieValuePrefix::remove($this->encrypter->decrypt($request->cookie(Passport::cookie()), Passport::$unserializesCookies)),
+            $this->encrypter->decrypt($request->cookie(Passport::cookie()), Passport::$unserializesCookies),
             $this->encrypter->getKey(),
             ['HS256']
         );
@@ -302,7 +301,7 @@ class TokenGuard
         $token = $request->header('X-CSRF-TOKEN');
 
         if (! $token && $header = $request->header('X-XSRF-TOKEN')) {
-            $token = CookieValuePrefix::remove($this->encrypter->decrypt($header, static::serialized()));
+            $token = $this->encrypter->decrypt($header, static::serialized());
         }
 
         return $token;

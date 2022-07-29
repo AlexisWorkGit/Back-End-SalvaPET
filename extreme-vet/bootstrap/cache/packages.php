@@ -24,6 +24,13 @@
       0 => 'Fruitcake\\Cors\\CorsServiceProvider',
     ),
   ),
+  'gecche/laravel-multidomain' => 
+  array (
+    'providers' => 
+    array (
+      0 => 'Gecche\\Multidomain\\Foundation\\Providers\\DomainConsoleServiceProvider',
+    ),
+  ),
   'laravel/passport' => 
   array (
     'providers' => 
@@ -36,13 +43,6 @@
     'providers' => 
     array (
       0 => 'Laravel\\Tinker\\TinkerServiceProvider',
-    ),
-  ),
-  'laravel/ui' => 
-  array (
-    'providers' => 
-    array (
-      0 => 'Laravel\\Ui\\UiServiceProvider',
     ),
   ),
   'laravelcollective/html' => 
