@@ -115,9 +115,9 @@ let zoom_level=parseInt($('#zoom_level').val());
 
 if(isNaN(branch_lat)||isNaN(branch_lng)||isNaN(zoom_level))
 {
-    branch_lat=26.8206;
-    branch_lng=30.8025;
-    zoom_level=4;
+    branch_lat=-1.6643752;
+    branch_lng=-78.6596817;
+    zoom_level=8;
 }
 
 function initMap() {

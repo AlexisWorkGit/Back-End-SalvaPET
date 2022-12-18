@@ -405,8 +405,8 @@ let zoom_level=parseInt($('#zoom_level').val());
 
 if(isNaN(visit_lat)||isNaN(visit_lng)||isNaN(zoom_level))
 {
-    visit_lat=26.8206;
-    visit_lng=30.8025;
+    visit_lat=-1.6643752;
+    visit_lng=-78.6596817;
     zoom_level=4;
 }
 

@@ -14,12 +14,12 @@ class BranchSeeder extends Seeder
     {
         Branch::truncate();
 
-        Branch::create([
+           Branch::create([
             'name'=>'Main Branch',
-            'address'=>'Egypt',
-            'phone'=>'+201063955280',
-            'lat'=>'27.77',
-            'lng'=>'30.88',
+            'address'=>'Ecuador',
+            'phone'=>'+593996535731',
+            'lat'=>'-1.6643752',
+            'lng'=>'78.6596817',
             'zoom_level'=>8
         ]);
     }
